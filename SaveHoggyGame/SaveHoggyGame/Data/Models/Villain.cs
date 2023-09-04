@@ -1,5 +1,6 @@
 namespace SaveHoggyGame.Data.Models;
-public class Villain {
-    int id {get;set;}
-    string name {get;set;}
+public class Villain 
+{
+    int Id {get;set;}
+    string? Name {get;set;}
 }

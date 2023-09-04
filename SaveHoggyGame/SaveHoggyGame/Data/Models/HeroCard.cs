@@ -1,5 +1,6 @@
 namespace SaveHoggyGame.Data.Models;
-public class HeroCard : HogwartsCard {
-    int id {get;set;}
-    string name {get;set;}
+public class HeroCard : HogwartsCard 
+{
+    int Id {get;set;}
+    string? Name {get;set;}
 }
